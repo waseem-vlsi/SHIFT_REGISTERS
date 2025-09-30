@@ -5,7 +5,7 @@
 // 
 // Create Date: 30.09.2025 00:54:39
 // Design Name: SISO
-// Module Name: SISO_shift_register_4bit_tb
+// Module Name: SISO_shift_register_4bit
 // Project Name: SHIFT_REGISTERS
 //////////////////////////////////////////////////////////////////////////////////
 
